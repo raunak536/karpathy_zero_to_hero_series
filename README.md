@@ -9,6 +9,7 @@ Exercises were mentioned inline jupyter notebook. You can directly read the note
 
 ## 2_makemore_bigrams
 Exercises:
+
 E01: train a trigram language model, i.e. take two characters as an input to predict the 3rd one. Feel free to use either counting or a neural net. Evaluate the loss; Did it improve over a bigram model?
 
 E02: split up the dataset randomly into 80% train set, 10% dev set, 10% test set. Train the bigram and trigram models only on the training set. Evaluate them on dev and test splits. What can you see?
@@ -21,4 +22,4 @@ E05: look up and use F.cross_entropy instead. You should achieve the same result
 
 E06: meta-exercise! Think of a fun/interesting exercise and complete it.
 
-Note : For E06 I tested performance of CPU vs GPU. My Mac MPS GPU gave 3x faster performance
+```Note : For E06 I tested performance of CPU vs GPU. My Mac MPS GPU gave 3x faster performance```
