@@ -23,3 +23,20 @@ E05: look up and use F.cross_entropy instead. You should achieve the same result
 E06: meta-exercise! Think of a fun/interesting exercise and complete it.
 
 ```Note : For E06 I tested performance of CPU vs GPU. My Mac MPS GPU gave 3x faster performance```
+
+## 3_makemore_mlp
+Building a multi-layer perceptron (MLP) character-level language model:
+
+E01: Training MLP - Implementing and training a neural network with embeddings and hidden layers
+
+E02: Uniform initialization - Exploring different initialization strategies and their impact on training
+
+## 4_batchnorms_mlp
+Understanding and implementing batch normalization:
+
+E01: Implementing Batchnorm - Adding batch normalization layers to improve training stability and performance
+
+## 5_backprop_ninja
+Deep dive into backpropagation mechanics:
+
+Becoming a backprop ninja - Manual implementation of backpropagation to understand the gradient flow through neural networks
